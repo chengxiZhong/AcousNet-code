@@ -10,6 +10,6 @@ All rights regarding the codes are reserved by the AMNR Lab and ShanghaiTech Uni
 
 These codes are kept updating as we are still doing research to further improve the performance of AcousNet.
 
-Any problem regarding the dataset, please feel free to contact liusong@shanghaitech.edu.cn or zhongchx@shanghaitech.edu.cn.
+Any problem regarding the code, please feel free to contact liusong@shanghaitech.edu.cn or zhongchx@shanghaitech.edu.cn.
 
-Cite this dataset by "AcousNet-Code, https://github.com/ShanghaitechAMNR/AcousNet-code.git "
+Cite this code by "AcousNet-Code, https://github.com/ShanghaitechAMNR/AcousNet-code.git "
